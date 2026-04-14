@@ -98,5 +98,5 @@ Specialized medical software strictly focused on the 3D visualization of interna
 
 ### 📫 How to reach me
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williams-gongora-452529293/)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williamsgongora/)
 * [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:williamsgongora1943@gmail.com)
