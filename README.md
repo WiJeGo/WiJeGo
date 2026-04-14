@@ -1,25 +1,25 @@
 <h1 align="center">
-  👋 Hola, soy Williams Gongora Catillejos</b>
+  👋 Hi, I'm <b>Williams Gongora Castillejos</b>
 </h1>
 
 <h3 align="center">
-  🎓 Estudiante de Ingeniería de Software (8vo ciclo) | 💻 Front-End, Back-End & Bases de Datos
+  🎓 Software Engineering Student (8th cycle) | 💻 Front-End, Back-End & Databases
 </h3>
 
 ---
 
-### 🧩 Sobre mí
+### 🧩 About Me
 
 <p align="left">
-🚀 Estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), perteneciente al Quinto Superior de mi facultad.<br>
-💻 Me especializo y disfruto creando soluciones enfocadas en el <b>desarrollo Front-end</b> y la <b>gestión de bases de datos</b>.<br>
-🌍 Apasionado por el aprendizaje continuo: cuento con nivel intermedio de inglés y conocimientos básicos de chino mandarín.<br>
-🛠️ Fuera del código, encuentro gran valor en la disciplina, el enfoque y la planificación a través de actividades manuales como la ebanistería y carpintería, además de mantener un gran interés por la historia global.
+🚀 Software Engineering student at Universidad Peruana de Ciencias Aplicadas (UPC), ranking in the top 20% (Quinto Superior) of my class.<br>
+💻 I specialize in and enjoy building solutions focused on <b>Front-end development</b> and <b>database management</b>.<br>
+🌍 Passionate about continuous learning: I have an intermediate level of English and basic knowledge of Mandarin Chinese.<br>
+🛠️ Outside of coding, I find great value in discipline, focus, and planning through manual activities like cabinetmaking and carpentry, along with a strong interest in global history.
 </p>
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technical Skills
 
 #### 💻 Programming Languages  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -41,6 +41,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
 ---
 
 #### 🧩 Back-End Development  
@@ -74,22 +75,20 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Highlighted Projects
 
-#### 🏥 Sistema de Gestión Médica y Visualización 3D
-Plataforma integral para el control clínico orientado a profesionales de la salud. Incluye la gestión de citas mediante un calendario interactivo, seguimiento de tratamientos, registro de síntomas, un dashboard analítico y un módulo especializado de visualización 3D de órganos internos a partir de datos clínicos.
+#### 🏥 3D Medical Visualization Software
+Specialized medical software strictly focused on the 3D visualization of internal organs using clinical data. Designed to assist healthcare professionals through advanced 3D rendering and clinical data structuring.
 
 <div align="left">
   <a href="https://github.com/WiJeGo/OncontrolFront-Sem">
-    <img alt="Medical Project Card" src="https://github.com/user-attachments/assets/39043c90-ce5f-448e-86b7-e57ec2117c0e"/>
-
+    <img width="500" alt="Medical Project Card" src="https://github.com/user-attachments/assets/39043c90-ce5f-448e-86b7-e57ec2117c0e"/>
   </a>
 </div>
 
-
 ---
 
-### 📈 Estadísticas de GitHub
+### 📈 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=WiJeGo&theme=dracula)](https://git.io/streak-stats)
 
@@ -97,7 +96,7 @@ Plataforma integral para el control clínico orientado a profesionales de la sal
 
 ---
 
-### 📫 Cómo contactarme
+### 📫 How to reach me
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williams-gongora-452529293/)
 * [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:williamsgongora1943@gmail.com)
